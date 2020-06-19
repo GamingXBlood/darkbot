@@ -1,0 +1,18 @@
+{
+  "name": "darkcraft",
+  "version": "1.0.1",
+  "description": "DarkCraft.Ro",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DarkCraft",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "discord.js": "^12.2.0",
+    "minecraft-server-util": "^1.3.0",
+    "ms": "^2.1.2",
+    "ytdl-core": "^2.1.7"
+  }
+}
